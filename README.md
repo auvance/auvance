@@ -7,7 +7,7 @@
 
 ## Tech Stack
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vite,react,nextjs,tailwind,gsap) &nbsp;<img src="https://github.com/user-attachments/assets/63257040-9bdd-4041-b57d-9d91760ab52d" alt="Splide" width="47" height="47"> &nbsp;<img src="https://github.com/user-attachments/assets/f1d5f2f2-98ab-4e44-a812-63142a464281" alt="Splide" width="47" height="47"> <br> 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=supabase,nodejs,webflow,framer,chatgpt,cursor) <br>
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=supabase,nodejs,webflow,framer,cursor) <br>
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=figma,xd,ai,indesign,ps)
 
 
